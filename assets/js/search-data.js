@@ -388,7 +388,7 @@ ninja.data = [{
           title: 'Our work Grounding-IQA is released: Paper | Project | GitHub. :sparkles:',
           description: "",
           section: "News",},{id: "news-i-received-the-2024-university-level-third-class-scholarship",
-          title: 'I received the 2024 University-Level Third-Class Scholarship！🥳',
+          title: 'I received the 2024 University-Level Third-Class Scholarship! 🥳',
           description: "",
           section: "News",},{id: "news-my-overall-assessment-score-ranked-4th-out-of-95-students-in-the-2024-2025-academic-year-️",
           title: 'My overall assessment score ranked 4th out of 95 students in the 2024-2025...',
