@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Email: zhangxun04@sjtu.edu.cn 📧"
+subtitle: "Email: zhangxun04@sjtu.edu.cn"
 
 profile:
   align: right
