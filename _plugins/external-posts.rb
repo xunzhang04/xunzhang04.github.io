@@ -28,7 +28,7 @@ module ExternalPosts
         return if xml.nil?
         feed = Feedjira.parse(xml)
         process_entries(site, src, feed.entries)
-      rescue Exception => e
+      rescue StandardError => e
         puts "Warning: Failed to fetch or parse RSS feed from #{src['name']} (#{src['rss_url']}): #{e.class} - #{e.message}"
       end
     end
